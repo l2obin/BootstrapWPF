@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFSQLite.App", "EFSQLite.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFSQLite.Core", "EFSQLite.Core\EFSQLite.Core.csproj", "{1D2224E0-54D0-442D-B92D-4B2316AE9057}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFSQLiteModule", "EFSQLiteModule\EFSQLiteModule.csproj", "{C8901D7B-C2CB-449E-9264-524C1274783E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{1D2224E0-54D0-442D-B92D-4B2316AE9057}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D2224E0-54D0-442D-B92D-4B2316AE9057}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D2224E0-54D0-442D-B92D-4B2316AE9057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8901D7B-C2CB-449E-9264-524C1274783E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8901D7B-C2CB-449E-9264-524C1274783E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8901D7B-C2CB-449E-9264-524C1274783E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8901D7B-C2CB-449E-9264-524C1274783E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

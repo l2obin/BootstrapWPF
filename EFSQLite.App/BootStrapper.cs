@@ -23,6 +23,10 @@ namespace EFSQLite.App
         protected override void ConfigureModuleCatalog()
         {
             base.ConfigureModuleCatalog();
+            
+            // Register modules that should be loaded into the application
+            ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
+            moduleCatalog.AddModule(typeof(EFSQLiteModule.EFSQLiteModule));
         }
     }
 }
