@@ -7,8 +7,8 @@
     <ProjectGuid>{416B6965-A633-4267-B2FB-4FF33CAD36AC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EFSQLite.App</RootNamespace>
-    <AssemblyName>EFSQLite.App</AssemblyName>
+    <RootNamespace>Bootstrap.App</RootNamespace>
+    <AssemblyName>Bootstrap.App</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -151,9 +151,9 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EFSQLiteModule\EFSQLiteModule.csproj">
+    <ProjectReference Include="..\BootstrapModule\Bootstrap.Module.csproj">
       <Project>{c8901d7b-c2cb-449e-9264-524c1274783e}</Project>
-      <Name>EFSQLiteModule</Name>
+      <Name>Bootstrap.Module</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

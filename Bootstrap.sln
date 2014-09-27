@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFSQLite.App", "EFSQLite.App\EFSQLite.App.csproj", "{416B6965-A633-4267-B2FB-4FF33CAD36AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap.App", "Bootstrap.App\Bootstrap.App.csproj", "{416B6965-A633-4267-B2FB-4FF33CAD36AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFSQLiteModule", "EFSQLiteModule\EFSQLiteModule.csproj", "{C8901D7B-C2CB-449E-9264-524C1274783E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap.Module", "BootstrapModule\Bootstrap.Module.csproj", "{C8901D7B-C2CB-449E-9264-524C1274783E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

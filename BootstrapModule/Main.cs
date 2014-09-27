@@ -5,13 +5,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace EFSQLiteModule
+namespace Bootstrap.Module
 {
-    public class EFSQLiteModule : IModule
+    public class Main : IModule
     {
         private readonly IRegionManager regionManager;
 
-        public EFSQLiteModule(IRegionManager regionManager)
+        public Main(IRegionManager regionManager)
         {
             this.regionManager = regionManager;
         }

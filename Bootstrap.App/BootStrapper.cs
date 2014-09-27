@@ -2,8 +2,9 @@
 using Microsoft.Practices.Prism.Modularity;
 using Microsoft.Practices.Prism.UnityExtensions;
 using Microsoft.Practices.Unity;
+using Bootstrap.Module;
 
-namespace EFSQLite.App
+namespace Bootstrap.App
 {
     public class Bootstrapper : UnityBootstrapper 
     {
@@ -26,7 +27,7 @@ namespace EFSQLite.App
             
             // Register modules that should be loaded into the application
             ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
-            moduleCatalog.AddModule(typeof(EFSQLiteModule.EFSQLiteModule));
+            moduleCatalog.AddModule(typeof(Bootstrap.Module.Main));
         }
 
         protected override void ConfigureContainer()
