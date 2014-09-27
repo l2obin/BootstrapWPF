@@ -1,0 +1,5 @@
+R:\Project\OpenSource\EFSQLite\EFSQLite\bin\Debug\EFSQLite.dll
+R:\Project\OpenSource\EFSQLite\EFSQLite\bin\Debug\EFSQLite.pdb
+R:\Project\OpenSource\EFSQLite\EFSQLite\obj\Debug\EFSQLite.csprojResolveAssemblyReference.cache
+R:\Project\OpenSource\EFSQLite\EFSQLite\obj\Debug\EFSQLite.dll
+R:\Project\OpenSource\EFSQLite\EFSQLite\obj\Debug\EFSQLite.pdb

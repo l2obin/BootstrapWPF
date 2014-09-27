@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFSQLite", "EFSQLite\EFSQLite.csproj", "{F4A44B53-8CF6-4A1E-B6A2-E429073AB121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFSQLite.App", "EFSQLite.App\EFSQLite.App.csproj", "{5D3931EE-4866-45BA-BB03-4C5C38422E7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A44B53-8CF6-4A1E-B6A2-E429073AB121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A44B53-8CF6-4A1E-B6A2-E429073AB121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A44B53-8CF6-4A1E-B6A2-E429073AB121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A44B53-8CF6-4A1E-B6A2-E429073AB121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3931EE-4866-45BA-BB03-4C5C38422E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3931EE-4866-45BA-BB03-4C5C38422E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3931EE-4866-45BA-BB03-4C5C38422E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3931EE-4866-45BA-BB03-4C5C38422E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -14,3 +14,4 @@ http://www.sqlite.org/
 
 ### Prism ###
 http://msdn.microsoft.com/en-us/library/gg406140.aspx
+http://aka.ms/prism-wpf-nuget

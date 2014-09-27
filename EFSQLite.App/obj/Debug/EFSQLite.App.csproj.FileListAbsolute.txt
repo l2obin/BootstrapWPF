@@ -1,0 +1,13 @@
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\bin\Debug\EFSQLite.App.exe
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\bin\Debug\EFSQLite.App.pdb
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\obj\Debug\MainWindow.baml
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\obj\Debug\MainWindow.g.cs
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\obj\Debug\App.g.cs
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\obj\Debug\EFSQLite.App_MarkupCompile.cache
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\obj\Debug\EFSQLite.App.g.resources
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\obj\Debug\EFSQLite.App.Properties.Resources.resources
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\obj\Debug\EFSQLite.App.csproj.GenerateResource.Cache
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\obj\Debug\EFSQLite.App.exe
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\obj\Debug\EFSQLite.App.pdb
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\bin\Debug\EFSQLite.App.exe.config
+R:\Project\OpenSource\EFSQLite\EFSQLite.App\obj\Debug\EFSQLite.App.csprojResolveAssemblyReference.cache
