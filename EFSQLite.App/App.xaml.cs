@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Practices.Prism;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
@@ -12,5 +13,11 @@ namespace EFSQLite.App
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+            Bootstrapper bootstrapper = new Bootstrapper();
+            bootstrapper.Run();
+        }
     }
 }
