@@ -28,5 +28,13 @@ namespace EFSQLite.App
             ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
             moduleCatalog.AddModule(typeof(EFSQLiteModule.EFSQLiteModule));
         }
+
+        protected override void ConfigureContainer()
+        {
+            base.ConfigureContainer();
+
+            //this.RegisterTypeIfMissing(typeof(IModuleTracker), typeof(ModuleTracker), true);
+            //this.Container.RegisterInstance<CallbackLogger>(this.callbackLogger);
+        }
     }
 }
